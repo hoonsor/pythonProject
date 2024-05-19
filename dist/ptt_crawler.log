@@ -1,0 +1,4 @@
+2024-03-09 21:41:38,599 - INFO - 嘗試載入設定檔...
+2024-03-09 21:41:38,599 - WARNING - 未找到設定檔
+2024-03-09 22:54:29,567 - ERROR - 無法載入設定檔: [Errno 2] No such file or directory: 'D:\\PythonProject\\pythonProject\\dist\\config.csv'
+2024-03-09 23:21:47,644 - ERROR - 無法載入設定檔: [Errno 2] No such file or directory: 'D:\\PythonProject\\pythonProject\\dist\\config.csv'

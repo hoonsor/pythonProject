@@ -1,0 +1,2 @@
+將IG的帳密放在 credentials.csv 檔的第1行及第2行（csv檔要與IG.exe放在同個目錄）
+然後就可以執行IG.exe取得最新貼文並產生html檔案
