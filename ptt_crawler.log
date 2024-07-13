@@ -672,3 +672,76 @@
 2024-05-15 23:30:57,657 - INFO - 本頁沒有新帖子，停止搜索
 2024-05-15 23:30:57,658 - INFO - 處理版面: lifeismoney
 2024-05-15 23:30:57,658 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:33,608 - INFO - 設定檔載入成功
+2024-08-06 21:45:33,706 - INFO - 啟動主迴圈...
+2024-08-06 21:45:33,707 - INFO - 搜索的日期是：8/06
+2024-08-06 21:45:33,707 - INFO - 已清空F:\PycharmProjects\pythonProject\ptt_output.txt內容
+2024-08-06 21:45:33,719 - INFO - CSV檔讀取成功
+2024-08-06 21:45:33,722 - INFO - 處理版面: hardwaresale
+2024-08-06 21:45:33,722 - INFO - 訪問頁面: https://www.ptt.cc/bbs/hardwaresale/index.html
+2024-08-06 21:45:34,098 - INFO - 在https://www.ptt.cc/bbs/hardwaresale/index.html未找到符合條件的帖子
+2024-08-06 21:45:34,099 - INFO - 目前無新的資料
+2024-08-06 21:45:34,099 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:34,099 - INFO - 處理版面: hardwaresale
+2024-08-06 21:45:34,100 - INFO - 訪問頁面: https://www.ptt.cc/bbs/hardwaresale/index.html
+2024-08-06 21:45:34,499 - INFO - 在https://www.ptt.cc/bbs/hardwaresale/index.html未找到符合條件的帖子
+2024-08-06 21:45:34,500 - INFO - 目前無新的資料
+2024-08-06 21:45:34,500 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:34,501 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:34,501 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:34,827 - INFO - 在https://www.ptt.cc/bbs/lifeismoney/index.html未找到符合條件的帖子
+2024-08-06 21:45:34,827 - INFO - 目前無新的資料
+2024-08-06 21:45:34,827 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:34,828 - INFO - 處理版面: steam
+2024-08-06 21:45:34,828 - INFO - 訪問頁面: https://www.ptt.cc/bbs/steam/index.html
+2024-08-06 21:45:35,146 - INFO - 在https://www.ptt.cc/bbs/steam/index.html未找到符合條件的帖子
+2024-08-06 21:45:35,147 - INFO - 目前無新的資料
+2024-08-06 21:45:35,147 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:35,147 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:35,148 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:35,446 - INFO - 在https://www.ptt.cc/bbs/lifeismoney/index.html未找到符合條件的帖子
+2024-08-06 21:45:35,447 - INFO - 目前無新的資料
+2024-08-06 21:45:35,447 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:35,447 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:35,447 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:35,832 - INFO - 發送Line通知...
+2024-08-06 21:45:36,172 - INFO - Line通知發送成功
+2024-08-06 21:45:36,172 - INFO - 獲取上一頁連結: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:36,486 - INFO - 找到上一頁連結
+2024-08-06 21:45:36,487 - INFO - 訪問頁面: https://www.ptt.cc/bbs/Lifeismoney/index4002.html
+2024-08-06 21:45:36,709 - INFO - 在https://www.ptt.cc/bbs/Lifeismoney/index4002.html未找到符合條件的帖子
+2024-08-06 21:45:36,709 - INFO - 目前無新的資料
+2024-08-06 21:45:36,709 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:36,710 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:36,710 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:36,968 - INFO - 在https://www.ptt.cc/bbs/lifeismoney/index.html未找到符合條件的帖子
+2024-08-06 21:45:36,969 - INFO - 目前無新的資料
+2024-08-06 21:45:36,969 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:36,969 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:36,969 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:37,215 - INFO - 在https://www.ptt.cc/bbs/lifeismoney/index.html未找到符合條件的帖子
+2024-08-06 21:45:37,216 - INFO - 目前無新的資料
+2024-08-06 21:45:37,216 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:37,217 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:37,217 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:37,498 - INFO - 在https://www.ptt.cc/bbs/lifeismoney/index.html未找到符合條件的帖子
+2024-08-06 21:45:37,499 - INFO - 目前無新的資料
+2024-08-06 21:45:37,499 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:37,499 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:37,499 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:37,732 - INFO - 在https://www.ptt.cc/bbs/lifeismoney/index.html未找到符合條件的帖子
+2024-08-06 21:45:37,733 - INFO - 目前無新的資料
+2024-08-06 21:45:37,733 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:37,734 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:37,734 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:38,048 - INFO - 在https://www.ptt.cc/bbs/lifeismoney/index.html未找到符合條件的帖子
+2024-08-06 21:45:38,048 - INFO - 目前無新的資料
+2024-08-06 21:45:38,049 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:38,049 - INFO - 處理版面: lifeismoney
+2024-08-06 21:45:38,049 - INFO - 訪問頁面: https://www.ptt.cc/bbs/lifeismoney/index.html
+2024-08-06 21:45:38,295 - INFO - 在https://www.ptt.cc/bbs/lifeismoney/index.html未找到符合條件的帖子
+2024-08-06 21:45:38,296 - INFO - 目前無新的資料
+2024-08-06 21:45:38,296 - INFO - 本頁沒有新帖子，停止搜索
+2024-08-06 21:45:38,298 - INFO - CSV檔讀取成功
+2024-08-06 21:45:38,298 - INFO - 處理版面: hardwaresale
+2024-08-06 21:45:38,299 - INFO - 訪問頁面: https://www.ptt.cc/bbs/hardwaresale/index.html
