@@ -67,8 +67,10 @@ def create_input_window(title, prompt, width=300, height=250, image_path=None):
 
 
 # 範例使用方式：
+
+
 if __name__ == "__main__":
-    image_file = r"C:\Users\hoonsor\Pictures\烏魯魯.png"
+    image_file = r"C:\Windows\Web\Wallpaper\Windows\img0.jpg"
     if not os.path.exists(image_file):
         dummy_image = Image.new("RGB", (100, 100), "white")
         dummy_image.save(image_file)
