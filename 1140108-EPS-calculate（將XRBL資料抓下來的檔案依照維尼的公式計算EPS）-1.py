@@ -93,15 +93,15 @@ def process_html(file_path):
             content = file.read()
         soup = BeautifulSoup(content, 'html.parser')
 
-        # 解析標題中的公司代碼
-        title_tag = soup.find('title', string=lambda text: create_input_window("請輸入財報網頁標題", "請輸入財報網頁標題：") in text)
+        # 解析標題中的公司代碼，例如網頁原始碼為「<title> 4137 2024Q4 Financial report</title> 」，則輸入「2024Q4 Financial report」
+        title_tag = soup.find('title', string=lambda text: create_input_window("請輸入財報網頁標題", "請輸入財報網頁標題：（例如：2024Q4 Financial report）") in text)
         company_code = title_tag.text.split()[0] if title_tag else "-"
         row_data.append(company_code)
 
         # 解析營業利益（損失）、繼續營業單位稅前淨利（淨損）、基本每股盈餘合計
         for item_code in ['6900', '7900', '9750']:
-            # value = process_financial_data(soup, item_code, 'From20240101To20240930')
-            value = process_financial_data(soup, item_code, create_input_window("請輸入財報起訖時間", "請輸入財報起訖時間："))
+            # value = process_financial_data(soup, item_code, 'From20240101To20241231')
+            value = process_financial_data(soup, item_code, create_input_window("請輸入財報起訖時間", "請輸入財報起訖時間：（例如：From20240101To20241231）"))
             row_data.extend([item_code, value])
     except Exception as e:
         print("An error occurred while processing the file:", e)
@@ -132,7 +132,7 @@ def save_to_csv(data):
         try:
             with open(save_path, 'w', newline='', encoding='utf-8') as file:
                 writer = csv.writer(file)
-                headers = ['Company Code', 'Item Code 6900', 'Net Operating Income 2023', 'Item Code 7900', 'Profit before tax 2023', 'Item Code 9750', 'EPS 2023']
+                headers = ['Company Code', 'Item Code 6900', 'Net Operating Income 2024', 'Item Code 7900', 'Profit before tax 2024', 'Item Code 9750', 'EPS 2024']
                 writer.writerow(headers)
                 writer.writerows(data)
             print("File saved successfully:", save_path)
